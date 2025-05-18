@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Ons Rajhi</h1>
-<h3 align="center">A Full Stack Data Scientist and AI Enthusiast from Tunisia</h3>
+<h3 align="center">I'm a Self-taught Data Scientist and ready to make my mark in AI</h3>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
